@@ -1,7 +1,7 @@
 export const districts = [
-  'Angul', 'Balangir', 'Bhadrak', 'Boudh', 'Cuttack', 'Dhenkanal',
-  'Gajapati', 'Ganjam', 'Jagatsinghpur', 'Jajpur', 'Jharsuguda', 'Kalahandi',
-  'Kandhamal', 'Kendrapara', 'Keonjhar', 'Khordha', 'Koraput', 'Malkangiri',
-  'Mayurbhanj', 'Nabarangpur', 'Nayagarh', 'Nuapada', 'Puri', 'Rayagada',
-  'Sambalpur', 'Subarnapur', 'Sundargarh',
+  'ANUGUL', 'BALANGIR', "BALESHWAR", "BARGARH", 'BHADRAK', 'BOUDH', 'CUTTACK', "DEOGARH", 'DHENKANAL',
+  'GAJAPATI', 'GANJAM', 'JAGATSINGHPUR', 'JAJAPUR', 'JHARSUGUDA', 'KALAHANDI',
+  'KANDHAMAL', 'KENDRAPARA', 'KEONJHAR', 'KHORDHA', 'KORAPUT', 'MALKANGIRI',
+  'MAYURBHANJ', 'NABARANGPUR', 'NAYAGARH', 'NUAPADA', 'PURI', 'RAYAGADA',
+  'SAMBALPUR', 'SUBARNAPUR', 'SUNDARGARH',
 ];

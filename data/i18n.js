@@ -18,7 +18,7 @@ export const i18n = {
     season: 'Season',
     crop: 'Crop',
     area: 'Area (in Hectares)',
-    yieldUnit: 'quintals/ha',
+    yieldUnit: 'tons/ha',
     getYield: 'Get Prediction & Advice',
     chatWithAI: 'Chat with AI',
     yieldPrediction: 'Yield Prediction',
